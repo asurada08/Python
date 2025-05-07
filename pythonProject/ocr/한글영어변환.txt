@@ -1,0 +1,52 @@
+import numpy as np
+
+print("Wnnp.repeat #4 su rep_cnt 만큼 반복 한다")
+541 =
+
+rep_cnt=5
+
+result = np.repeat(sut, rep_cnt)
+
+print(type(result))
+
+print(result)
+
+array! = np.array([1, 2])
+array2 = np.array([3, 4])
+0001("\01번 배열")
+print(array1)
+
+print("Wwn24 배열")
+print(array2)
+
+print("Wnnp.concatenate 함수는 배열 들을 합쳐 준다.")
+result = np.concatenate((array1,, array2))
+
+print(result)
+542 =3
+rep_cnt2 =4
+
+0001("\1함수 들의 중첩.")
+np.repeat(su1, rep_cnt)
+p.repeat(su2, rep_cnt2)
+result = np.concatenate((abcd, defg))
+print(result)
+
+array3 = np. array(lt 2.3 2.3.4, 5, 61)
+print("Wnreshape 함수는 형상을 변경해 준다")
+
+0006("2행 32")
+result = np.reshape(array3, [2, 3])
+print(result)
+
+print("Wwn3@ 22")
+result = np.reshape(array3, [3, 2])
+print(result)
+
+array4 = np.array([[3, 6, 2]. [4. 1. 5]])
+0110("\04번 배열")
+print(array4)
+
+0001("\1전치된 배열")
+result = np.transpose(array4)
+print(result)
